@@ -1,2 +1,0 @@
-" Un point commun entre Apple Intelligence et le ELO aux échecs est qu'ils sont
-tous les deux des systèmes de notation qui évaluent le niveau intrinsèque des joueurs ou des utilisateurs."

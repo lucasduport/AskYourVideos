@@ -25,5 +25,5 @@ This project is a simple langchain project that allows users to ask questions an
 - [ ] Add a frontend to interact with the chatbot
 - [ ] Add a way to load every videos in a playlist with a playlist link
 - [ ] Add a way to load every videos from a channel with a channel link (AskYourYoutuber...?)
-- [ ] Try more hyperparameters (chunk_size, overlap, top_k, temperature...)
+- [ ] Try more hyperparameters (chunk_size, overlap, k, temperature...)
 
